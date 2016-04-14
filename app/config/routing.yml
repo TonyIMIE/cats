@@ -1,0 +1,5 @@
+chatondl13:
+    resource: "@CHATONDL13Bundle/Controller/"
+    type:     annotation
+    prefix:   /
+
